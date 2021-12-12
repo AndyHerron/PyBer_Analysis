@@ -12,6 +12,7 @@ The analysis will help PyBer improve access to ridesharing services and determin
 
 ## Results
 
+![PyBer summary dataframe](https://github.com/AndyHerron/PyBer_Analysis/blob/main/Resources/PyBer_summary_df.png)
 ### Describe the differences between different city types.
 The data was collected for a wide range of cities and broadly grouped into three categories - Rural, Suburban and Urban.  These categories were chosen based upon the city's population size.
 
@@ -24,7 +25,7 @@ The size of the cities has an opposite effect on the average fare per ride.  Urb
 Rural areas tend to be more spread out, so the average length of the rides is longer, which results in a higher average fare in those areas.  Rural cities also had a higher average fare per driver than
 Urban and Suburban cities.
 
-
+![PyBer weekly fares](https://github.com/AndyHerron/PyBer_Analysis/blob/main/analysis/PyBer_fare_summary.png)
 ## Challenge Summary
 On the surface, these results seem to make sense.  Urban cities have higher populations, which means a higher number of potential customers.  Those Urban customers utilize PyBer's ridesharing services in much higher numbers than
 Suburban or Rural people do, and with the much higher number of rides it makes sense that the total income (fares) for Urban areas represents the lion's share of the overall income.  What is perhaps not as obvious on the surface
